@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2cf0a476-b749-4277-b3c8-4f2e8da3fa71" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test_task_mts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/task_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/test_task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/test_task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/test_task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/create_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/task_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2lbEUqrvCwCEezoQbjuFvClJGgB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in test_sort_str.py.executor": "Run",
+    "Python tests.Python tests in test_task_1.py.executor": "Run",
+    "Python tests.Python tests in test_task_2.py.executor": "Run",
+    "Python tests.Python tests in test_task_3.py.executor": "Run",
+    "Python.create_base.executor": "Run",
+    "Python.task_1.executor": "Run",
+    "Python.task_2.executor": "Run",
+    "Python.task_3.executor": "Run",
+    "Python.task_4.executor": "Run",
+    "Python.task_5.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/YandexDisk/Programm/test_speed"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\YandexDisk\Programm\test_task_mts\sql" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cf0a476-b749-4277-b3c8-4f2e8da3fa71" name="Changes" comment="" />
+      <created>1725440395110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725440395110</updated>
+    </task>
+    <servers />
+  </component>
+</project>
