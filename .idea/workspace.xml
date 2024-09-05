@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cf0a476-b749-4277-b3c8-4f2e8da3fa71" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -12,6 +13,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/test_task_mts.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/scripts/task_1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/scripts/task_2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/scripts/task_3.py" afterDir="false" />
@@ -25,6 +27,8 @@
       <change afterPath="$PROJECT_DIR$/sql/task_3.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sql/task_4.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sql/task_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/test_database.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/test_database_big.db" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +46,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kulakov544"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kulakov544/test_task_mts.git",
+    "accountId": "db5f35b3-5e59-4fe6-8019-59bef8927949"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -68,7 +84,7 @@
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/YandexDisk/Programm/test_speed"
+    "last_opened_file_path": "D:/YandexDisk/Programm/test_task_mts"
   }
 }]]></component>
   <component name="RecentsManager">
