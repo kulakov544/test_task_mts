@@ -12,7 +12,7 @@ foo099 -> foo100
 
 """
 
-def increment_string(string):
+def get_enlarged_string(string):
     # Если получили пустую строку
     if not string:
         return string + '1'
@@ -35,8 +35,8 @@ def increment_string(string):
 
 
 if __name__ == "__main__":
-    print(increment_string('foo'))
-    print(increment_string('foobar23'))
-    print(increment_string('foo0042'))
-    print(increment_string('foo9'))
-    print(increment_string('ывап0000999'))
+    print(get_enlarged_string('foo'))
+    print(get_enlarged_string('foobar23'))
+    print(get_enlarged_string('foo0042'))
+    print(get_enlarged_string('foo9'))
+    print(get_enlarged_string('ывап0000999'))
