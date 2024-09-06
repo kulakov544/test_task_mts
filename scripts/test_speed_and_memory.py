@@ -1,11 +1,13 @@
 import time
 import tracemalloc
+import asyncio
 
 from task_1 import sort_str
 from task_2 import remove_small_number
 from task_3 import get_enlarged_string
 
-# Функция для измерения времени выполнения и затраченной памяти
+
+# Функция для измерения времени выполнения и затраченной памяти синхронных функций
 def measure_performance(func, repetitions, *args, **kwargs):
     # Замер времени выполнения
     start_time = time.time()
@@ -38,7 +40,7 @@ input_data = "is2 Thi1s T4est 3a"
 
 print('Task 1:')
 print('Входящие данные: ', input_data)
-result = measure_performance(sort_str, 10000, input_data)
+result = measure_performance(sort_str, 1000, input_data)
 print("Результат последнего выполнения:", result)
 
 
@@ -46,7 +48,7 @@ input_data = [2, 2, 1, 2, 1]
 
 print('Task 2:')
 print('Входящие данные: ', input_data)
-result = measure_performance(remove_small_number, 10000, input_data)
+result = measure_performance(remove_small_number, 1000, input_data)
 print("Результат последнего выполнения:", result)
 
 
@@ -54,5 +56,7 @@ input_data = 'foo099'
 
 print('Task 3:')
 print('Входящие данные: ', input_data)
-result = measure_performance(get_enlarged_string, 10000, input_data)
+result = measure_performance(get_enlarged_string, 1000, input_data)
 print("Результат последнего выполнения:", result)
+
+

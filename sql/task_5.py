@@ -18,7 +18,7 @@ def get_max_salary(database_path: str | Path) -> list:
     """
     Функция отправляет запрос базе данных и возвращает ответ.
     :param database_path: Путь к базе данных
-    :return: ответ от базы данных
+    :return: список отделов с максимальной зарплатой по отделу
     """
     try:
         conn = sqlite3.connect(database_path)
@@ -31,12 +31,12 @@ def get_max_salary(database_path: str | Path) -> list:
             # Запрос с использованием WITH
             query = '''
             with sum_salary as
-            (select DEPARTAMENT_ID, sum(SALARY) AS SALARY
+            (select DEPARTAMENT_ID, sum(SALARY) AS SUM_SALARY_DEP
             from EMPLOYEE
             group by DEPARTAMENT_ID)
             select DEPARTAMENT_ID
             from sum_salary a
-            where a.SALARY = (select max(SALARY) from sum_salary)
+            where a.SUM_SALARY_DEP = (select max(SUM_SALARY_DEP) from sum_salary)
             '''
 
             cursor.execute(query)

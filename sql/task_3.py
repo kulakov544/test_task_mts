@@ -18,7 +18,7 @@ def get_id_small_departments(database_path: str | Path) -> list:
     """
     Функция отправляет запрос базе данных и возвращает ответ.
     :param database_path: Путь к базе данных
-    :return: ответ от базы данных
+    :return: список ID отделов в которых менее 3 человек не считая руководителей
     """
     try:
         conn = sqlite3.connect(database_path)
