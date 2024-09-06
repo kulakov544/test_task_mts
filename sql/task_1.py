@@ -95,8 +95,10 @@ def query2(database_path: str | Path):
         finally:
             conn.close()
 
+
 if __name__ == "__main__":
     database_path = 'test_database.db'  # Укажите путь к вашей базе данных SQLite
+
     query1(database_path)
-    query2(database_path)
+    #query2(database_path)
 
