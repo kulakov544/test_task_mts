@@ -9,6 +9,7 @@
 ## Используемые технологии
 ![Python](https://img.shields.io/badge/Python-3.12+-blue?logo=python)
 ![Faker](https://img.shields.io/badge/Faker-28.1.0+-green?logo=Faker)
+![SQLite3](https://img.shields.io/badge/SQLite3-orange?logo=SQLite3)
 
 ## Установка
 
